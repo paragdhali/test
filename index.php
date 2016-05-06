@@ -1,4 +1,6 @@
 <?php
 //Comment
-echo "This is a test php file (Parag)"
+echo "This is a test php file (Parag)";
+
+//Test comment
 ?>
